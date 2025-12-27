@@ -8,7 +8,7 @@ Transforming data into intelligence through SQL, Python, and Generative AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-dixit-bbb3b5170/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AkashhDixit)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dixitakashh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akashhdixit.ba@gmail.com)
 
 </div>
 
@@ -103,7 +103,7 @@ Currently expanding my knowledge in:
 
 ## 💬 Let's Connect!
 
-- 📧 **Email**: dixitakashh@gmail.com
+- 📧 **Email**: akashhdixit.ba@gmail.com
 - 💼 **LinkedIn**: [Akash Dixit](https://www.linkedin.com/in/akash-dixit-bbb3b5170/)
 - 💻 **GitHub**: [@AkashhDixit](https://github.com/AkashhDixit)
 - 🌍 **Location**: Gurgaon, India
