@@ -116,4 +116,13 @@ Currently expanding my knowledge in:
 
 Open to collaborations on AI/ML projects and prompt engineering initiatives!
 
+---
+
+<div align="center">
+
+**⏰ Profile Last Updated:** January 1, 2026  
+*Actively Learning & Building AI Solutions*
+
+</div>
+
 </div>
