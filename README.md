@@ -120,8 +120,8 @@ Open to collaborations on AI/ML projects and prompt engineering initiatives!
 
 <div align="center">
 
-**⏰ Profile Last Updated:** January 1, 2026  
-*Actively Learning & Building AI Solutions*
+🚀⏰ Profile Last Updated:** January 9, 2026*Actively Learning & Building AI Solutions*
+**🗓️ Currently Working On:** Advanced LangChain & RAG implementation | Preparing for AI/ML interviews
 
 </div>
 
